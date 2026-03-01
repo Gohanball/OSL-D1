@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season V",
-	"Version": 1770727568,
+	"Version": 1772350897,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -738,7 +738,8 @@
 				93,
 				99,
 				87,
-				86
+				86,
+				94
 			],
 			"ItemWhitelist": [
 				5,
@@ -2071,7 +2072,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"101"
+				"101",
+				"70"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
